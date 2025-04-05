@@ -30,7 +30,7 @@ export default function AboutPage() {
           Based in <span className="font-medium">Jaipur, Rajasthan</span>, we’ve had the honor of covering countless weddings and cultural events, turning fleeting moments into lifelong memories.
         </p>
         <p>
-          From traditional rituals to modern ceremonies — we don’t just take photos; we create art that speaks.
+          From traditional rituals to modern ceremonies — we don&apos;t just take photos; we create art that speaks.
         </p>
       </motion.div>
 
